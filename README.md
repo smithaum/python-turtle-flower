@@ -24,7 +24,4 @@ randomly positioned hearts, and text-based petals.
 ## 🚀 How to Run
 
 Clone the repository: ```bash
-git clone https://github.com/smithaum/python-turtle-flower.g
-
-```bash
 https://github.com/smithaum/python-turtle-flower
