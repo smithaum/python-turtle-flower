@@ -27,4 +27,4 @@ Clone the repository: ```bash
 git clone https://github.com/smithaum/python-turtle-flower.g
 
 ```bash
-git clone https://github.com/smithaum/python-turtle-flower.git
+https://github.com/smithaum/python-turtle-flower
